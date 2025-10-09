@@ -1,6 +1,6 @@
 ---
 product-family:
-  title: Documentazione della console NetApp
+  title: Documentazione NetApp Console
   lead: NetApp Console offre una gestione centralizzata dei servizi di storage e dati
     negli ambienti on-premise e cloud. Offre controllo unificato, semplicità operativa
     e gestione sicura.  Sfoglia la documentazione in base alle funzionalità oppure
@@ -35,10 +35,10 @@ product-family:
   - title: Configurazione e amministrazione
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Scopri come iniziare a utilizzare la console NetApp , inclusa la configurazione
+    summary: Scopri come iniziare a utilizzare la NetApp Console, inclusa la configurazione
       della gestione degli accessi e degli agenti.
     tags: all, console, agents
-  - title: Servizi dati NetApp
+  - title: NetApp Data Services
     icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: Proteggi e metti in sicurezza la tua infrastruttura di storage.
@@ -70,7 +70,7 @@ product-family:
     url: "../active-iq/index.html"
     tags: all,health
     summary: Informazioni fruibili per uno stato di conservazione ottimale.
-  - title: Licenze e abbonamenti
+  - title: Licenses and subscriptions
     icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
