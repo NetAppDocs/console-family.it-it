@@ -105,8 +105,3 @@ product-family:
     summary: Monitorare l'impatto ambientale dei sistemi per raggiungere gli obiettivi
       di sostenibilità.
     tags: all,health
-  - title: Dashboard ben progettata
-    url: https://docs.netapp.com/us-en/console-well-architected/index.html
-    summary: Mantieni configurazioni di archiviazione affidabili, sicure, efficienti
-      e convenienti basate sulle best practice.
-    tags: all,health,storage
